@@ -4,7 +4,7 @@
 매일 문제를 풀고 서로의 코드를 리뷰하며 함께 성장합니다.
 
 문제집
-https://www.acmicpc.net/group/workbook/view/24971/88929
+https://www.acmicpc.net/group/25364
 ---
 
 ## 📌 스터디 컨벤션 (Naming)
