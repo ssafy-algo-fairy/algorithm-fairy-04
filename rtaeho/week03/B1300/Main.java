@@ -1,4 +1,4 @@
-package rtaeho.week02.B1300;
+package rtaeho.week03.B1300;
 
 import java.io.BufferedReader;
 import java.io.IOException;
